@@ -1,1 +1,1 @@
-# BL.EN.U4CSE20177
+I had done the code to get the clinetid and clientseceret but while i was running the code it's showing that the ststus code:200.but it has to show me the response with the details of clientid and clientsecret and it's not showign that and it's showing only status code:200.and after tthat i had implemented a code for the trains for the next 12 hours and showing the timings ,date ,time and depature time.
